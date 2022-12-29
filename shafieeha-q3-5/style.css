@@ -1,0 +1,26 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.main-section {
+    margin: 20px;
+  display: flex;
+  width: 70%;
+  border: 1px solid black;
+}
+.sidebar {
+  width: 15%;
+  background-color: rgb(159, 157, 157);
+  margin-right: 16px;
+}
+
+#London {
+  background-color: grey;
+}
+div {
+  padding: 30px;
+}
+
+.heading{
+    font-size: 30px;
+    margin-bottom: 32px;
+}
